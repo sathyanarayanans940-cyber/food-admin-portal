@@ -42,4 +42,4 @@ Open http://localhost:3000. The API runs on port 5001. A fresh `backend/database
 
 ## Current scope
 
-This coursework prototype implements create and read operations. Authentication, updates/deletes, robust validation and explicit SQLite foreign-key enforcement remain improvements. The frontend uses fixed localhost URLs. It is intended for local demonstration.
+This coursework project supports adding and viewing records. It has no authentication or update/delete routes, and input validation and SQLite foreign-key enforcement need further work. The frontend uses fixed localhost URLs and is intended to run locally.
